@@ -46,5 +46,3 @@ Capturas de tela armazenadas em `/images`.
 O projeto permitiu entender como funcionam ataques de força bruta e como preveni-los.  
 Foi essencial para desenvolver consciência sobre segurança, auditoria e boas práticas.
 
-## 📁 Estrutura do Repositório
-
